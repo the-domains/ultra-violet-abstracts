@@ -1,4 +1,4 @@
-name: Ultra Violet Abstracts
+name: UVA
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.16285
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#273270'
-    - '#8acfde'
-    - '#66a3c2'
-    - '#3a4a80'
-    - '#6886ab'
+    - '#f3f7ff'
+    - '#804d9a'
+    - '#0e0000'
+    - '#8489e5'
+    - '#3c371a'
   brandStrength: 0
   lightness: 0
   saturation: 0
