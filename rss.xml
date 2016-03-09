@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[iridescent abstract UV paintings and experimental electronic music]]></title>
         <description><![CDATA[iridescent abstract UV paintings and experimental electronic music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ultra-violet-abstracts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 20:01:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 20:06:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ultra-violet-abstracts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[free download ]]></title>
             <description><![CDATA[<article><h1>free download </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03ea566987f7ef3782a3fc6577262e0376e0b5f6.jpg"></article>]]></description>
-            <link>undefinedfree-download/index.html</link>
+            <link>https://thegrid.ai/ultra-violet-abstracts/free-download/index.html</link>
             <guid isPermaLink="false">6b276482-bed2-4dec-ace3-c1a097f23112</guid>
-            <pubDate>Wed, 09 Mar 2016 20:00:31 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 20:05:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
