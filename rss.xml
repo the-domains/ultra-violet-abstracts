@@ -4,21 +4,21 @@
         <description><![CDATA[iridescent abstract UV paintings and experimental electronic music]]></description>
         <link>https://thegrid.ai/ultra-violet-abstracts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 16:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 16:30:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ultra-violet-abstracts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ultra Violet Abstracts]]></title>
+            <description><![CDATA[<h1>Ultra Violet Abstracts</h1>]]></description>
+            <link>https://thegrid.ai/ultra-violet-abstracts/ultra-violet-abstracts/index.html</link>
+            <guid isPermaLink="false">f42cd5f6-942f-4895-bc7f-fc812aa15413</guid>
+            <pubDate>Wed, 09 Mar 2016 16:29:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc85fa57-26fe-4832-a31b-d91e9eb80e86.jpg">]]></description>
             <link>https://thegrid.ai/ultra-violet-abstracts/1baa7645-107f-4380-901a-df5232be459e/index.html</link>
             <guid isPermaLink="false">1baa7645-107f-4380-901a-df5232be459e</guid>
             <pubDate>Wed, 09 Mar 2016 16:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ultra Violet Abstracts]]></title>
-            <description><![CDATA[<h1>Ultra Violet Abstracts</h1>]]></description>
-            <link>https://thegrid.ai/ultra-violet-abstracts/ultra-violet-abstracts/index.html</link>
-            <guid isPermaLink="false">f42cd5f6-942f-4895-bc7f-fc812aa15413</guid>
-            <pubDate>Wed, 09 Mar 2016 16:24:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
