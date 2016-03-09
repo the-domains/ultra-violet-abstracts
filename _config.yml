@@ -1,0 +1,28 @@
+name: Ultra Violet Abstracts
+favicon: null
+layout_spectrum: 0.760647629853338
+typography_spectrum: 0.3410679828375578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4828375543002039
+  lightness: 0.9182601722422987
+  saturation: 0.4752358556725085
+  rhythmicContrast: 0.22492476762272418
+purpose: []
