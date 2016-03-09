@@ -1,6 +1,6 @@
 name: UVA
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.16285
 title: ULTRA VIOLET ABSTRACTS
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f3f7ff'
-    - '#804d9a'
-    - '#0e0000'
-    - '#8489e5'
-    - '#3c371a'
+    - '#8a838c'
+    - '#614051'
+    - '#000000'
+    - '#aaaaaa'
+    - '#550055'
   brandStrength: 0
   lightness: 0
   saturation: 0
