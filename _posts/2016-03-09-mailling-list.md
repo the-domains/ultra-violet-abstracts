@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: www.maunarecords.com
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: signup and get afree download from the hit single Destination Sun
-datePublished: '2016-03-09T21:55:33.842Z'
-dateModified: '2016-03-09T21:54:36.378Z'
+datePublished: '2016-03-09T22:03:55.913Z'
+dateModified: '2016-03-09T22:03:16.520Z'
 title: mailling list
 author: []
 authors: []
